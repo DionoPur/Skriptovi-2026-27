@@ -1,4 +1,4 @@
-#Program for all deviders of n that are odd
+#Programa za zadanie 1 zad. 2
 n=int(input("Enter a number: "))
 i=1
 while i<n:
