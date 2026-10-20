@@ -1,3 +1,4 @@
+#Program for Fibonachi numbers up to n
 n=int(input("Enter a number: "))
 p1=1
 p2=0
