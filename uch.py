@@ -1,4 +1,4 @@
-#Program for Fibonachi numbers up to n
+#Programa za zadanie 1 zad 1
 n=int(input("Enter a number: "))
 p1=1
 p2=0
